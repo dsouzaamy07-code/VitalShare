@@ -1,6 +1,3 @@
-# VitalShare
-
-
 # VitalShare – Lifesaving Resources Shared Instantly
 
 ## Project Overview
